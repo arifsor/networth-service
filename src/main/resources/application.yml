@@ -1,0 +1,5 @@
+rest:
+  currencyExchange:
+    url: "https://api.exchangeratesapi.io/v1/latest"
+    apiKey: "957c6f97214611d0bc852985bbc2533d"
+
