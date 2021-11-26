@@ -40,4 +40,8 @@ public class CurrencyExchangeRateService {
 
         return currencyExchangeRate;
     }
+
+    public Map<String, CurrencyExchangeRate> exchangeRateCache() {
+        return exchangeRateCache;
+    }
 }
